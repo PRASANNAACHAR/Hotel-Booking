@@ -1,0 +1,11 @@
+grate stackhotel booking video ended 5:54:48
+
+propmt
+ npm install tailwindcss @tailwindcss/vite
+
+
+ clerk using authenticating:
+
+
+ start backend command
+ npm run start
